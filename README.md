@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0969DA&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=thebluepointer&style=for-the-badge&color=0969DA&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
@@ -57,8 +57,8 @@ If AI-assisted development isn't your thing, that's completely fine. You're unde
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B9EFF&icon_color=3B9EFF&text_color=C9D1D9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B9EFF&text_color=C9D1D9" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thebluepointer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B9EFF&icon_color=3B9EFF&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebluepointer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B9EFF&text_color=C9D1D9" height="165" alt="Top Languages" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ If AI-assisted development isn't your thing, that's completely fine. You're unde
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/thebluepointer/thebluepointer/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
